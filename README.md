@@ -14,3 +14,9 @@ Para inciar o projeto, entre até a pasta do app, abra o terminal e digite npx e
 94392 - Guilherme de Lucas Garcia
 
 95125 - Caio Felipe Britto Zanardo da Silva
+
+![PRINT!](imgPrints/tela01.png)
+![PRINT!](imgPrints/tela02.png)
+![PRINT!](imgPrints/tela03.png)
+![PRINT!](imgPrints/tela04.png)
+![PRINT!](imgPrints/tela05.png)
