@@ -15,8 +15,8 @@ Para inciar o projeto, entre até a pasta do app, abra o terminal e digite npx e
 
 95125 - Caio Felipe Britto Zanardo da Silva
 
-![PRINT!](imgPrints/tela01.png)
-![PRINT!](imgPrints/tela02.png)
-![PRINT!](imgPrints/tela03.png)
-![PRINT!](imgPrints/tela04.png)
-![PRINT!](imgPrints/tela05.png)
+![PRINT!](src/services/imgPrints/tela01.png)
+![PRINT!](src/services/imgPrints/tela02.png)
+![PRINT!](src/services/imgPrints/tela03.png)
+![PRINT!](src/services/imgPrints/tela04.png)
+![PRINT!](src/services/imgPrints/tela05.png)
